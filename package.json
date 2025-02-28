@@ -1,0 +1,12 @@
+{
+  "name": "globalcare-api",
+  "version": "1.0.0",
+  "description": "api to learn node",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "npm run test"
+  },
+  "author": "oliver zulett",
+  "license": "ISC"
+}
